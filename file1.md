@@ -7,3 +7,5 @@ git diff
 git log
 
 git checkout
+
+разъяснения
