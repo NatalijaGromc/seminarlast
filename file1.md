@@ -1,13 +1,19 @@
-git status
+**git status**
 
-git commit
 
-git diff
 
-git log
+**git commit**
+
+
+
+**git diff**
+
+
+
+**git log**
 
 используется для просмотра журнала изменений
 
-git checkout
+**git checkout**
 
 используется для того, чтобы перейти к сохранению
